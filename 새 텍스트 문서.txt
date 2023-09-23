@@ -1,0 +1,5 @@
+PS C:\Mtest\melody2\src\front> cd .\melody-front\
+PS C:\Mtest\melody2\src\front\melody-front> ls
+
+
+PS C:\Mtest\melody2\src\front\melody-front> npm run dev
